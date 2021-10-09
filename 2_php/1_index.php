@@ -6,5 +6,12 @@
   </head>
   <body>
     <p>Strona głowna</p>
+    <<?php
+    $name= 'Janusz';
+    $surname="Nowak";
+    echo 'Imię: $name'; //Imię $name
+    echo 'Imię: $name'; //Imię: Janusz
+     ?>
+
   </body>
 </html>
