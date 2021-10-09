@@ -11,6 +11,10 @@
     $surname="Nowak";
     echo 'Imię: $name'; //Imię $name
     echo 'Imię: $name'; //Imię: Janusz
+
+    echo <<<LABEL
+    
+    LABEL;
      ?>
 
   </body>
