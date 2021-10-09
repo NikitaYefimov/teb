@@ -13,9 +13,14 @@
     echo 'Imię: $name'; //Imię: Janusz
 
     echo <<<LABEL
-    
+
     LABEL;
      ?>
-
+<br>
+Remember all about ur scores
+<br>
+<hr>
+Because it chanche all of ur things
+<hr>
   </body>
 </html>
